@@ -1,6 +1,4 @@
 % ===========================================================
-% Main file Audiotechnik Abgab3 3 
-% David Ackermann 
 close all
 clearvars
 %% FX
